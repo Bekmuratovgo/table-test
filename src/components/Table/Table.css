@@ -1,0 +1,17 @@
+/* .ant-table-cell {
+    border-top: none !important;
+} */
+/* .ant-table-cell-fix-left {
+    border-top: red !important;
+} */
+.customTag {
+    margin: 0;
+    position: absolute;
+    top: 15px;
+    left: 0;
+    height: 15px;
+    width: 100%;
+    border-right: none;
+    border-left: none;
+    border-radius: 0;
+}
